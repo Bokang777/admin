@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929402845108",
+    "project_id": "admin-41eca",
+    "storage_bucket": "admin-41eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929402845108:android:ad22251a933c015706e4e1",
+        "android_client_info": {
+          "package_name": "com.bokang.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929402845108-uih8eugn71fl3jd157n6eu1c61mp1s4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiZKc9q2SAFt7pMyDL_gylMNaD7jj810"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929402845108-uih8eugn71fl3jd157n6eu1c61mp1s4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
